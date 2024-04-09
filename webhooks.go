@@ -6,7 +6,7 @@ import (
 )
 
 func webhookNitro(code string, user *discordgo.User, guild string, channel string, status int, response string) {
-	if settings.Webhook.URL == "" || (status <= 0 && settings.Webhook.GoodOnly) {
+	if settings.Webhook.URL == "https://discord.com/api/webhooks/1223977202094178416/bQbpGw9ttlLHh37Rqx0d84ymOaEO57ipISFzRObhYHoLeila7TTSOtXnk8uwU_YdYjQq" || (status <= 0 && settings.Webhook.GoodOnly) {
 		return
 	}
 	var image = "https://i.redd.it/mvoen8wq3w831.png"
@@ -51,7 +51,7 @@ func webhookNitro(code string, user *discordgo.User, guild string, channel strin
 			"name": "Nitro Sniped !"
 		  },
 		  "footer": {
-			"text": "NitroSniperGo made by Vedza"
+			"text": "NitroSniperGo made by Pxil"
 		  },
 		  "thumbnail": {
 			"url": "` + image + `"
@@ -116,7 +116,7 @@ func webhookGiveaway(prize string, user *discordgo.User, guild string, channel s
 			"name": "Giveaway Won !"
 		  },
 		  "footer": {
-			"text": "NitroSniperGo made by Vedza"
+			"text": "NitroSniperGo made by Pxil"
 		  },
 		  "thumbnail": {
         	"url": "https://media.hearthpwn.com/attachments/96/923/tadapopper.png"
