@@ -1,12 +1,26 @@
 {
   "tokens": {
-    "main": "",
+    "main": "MTE5NzU0NDA2MDYxMzgzNjgzNQ.GHg5mq.QthiFYYq3eoN-vSHtzlnn_Z-aqNGSRk7KLZFpc",
     "alts": [
-      ""
+      "NzUxMzgzNjg2MTI1MTkxMjQ4.GSn5ZC.t_WKN4pg52DdmND8mGs0yxrP4uc58AYgyC3juI",
+      "MTIwMzY3OTE3NzQ4ODk5ODQ2Mw.G_g9v_.6rEDarglCResW7ZFveJFqn7zTewv_IXhKy85m0",
+      "MTIyMzE3NjMwODcyNTY0NTM4Mw.Gis_K8.JDFtLQAZQ0MpQhdPx5L-0IAT9NnQHnmhxO0WXU",
+      "MTIyMzE3NjMwODcyNTY0NTM4Mw.Gis_K8.JDFtLQAZQ0MpQhdPx5L-0IAT9NnQHnmhxO0WXU",
+      "MTEzMjE2OTA2NDE3Nzk5NTc5Ng.GVAZqL.-yG3fLjWPXWJEiy_Jz_77R34ouFMKZ4DIRVCqg",
+      "MTIyMjgxMDU3OTEwMjcyODMwMw.Gg6Ct6.D6nyzOjs3U7jJ4IOQOsqOoTe4ljiV00kr0mLFw",
+      "MTEzMjE2OTA2NDE3Nzk5NTc5Ng.GVAZqL.-yG3fLjWPXWJEiy_Jz_77R34ouFMKZ4DIRVCqg",
+      "MTE1OTE0NTk5MTg1ODA0OTE0NQ.GMoCzM._0s4n6MKMnbY_kNkxZMtYw5_Uu7uZstOkjrh2M",
+      "Nzk1OTc1MDM5NTc2ODM0MDQ4.GAHuuZ.2Qlmbnn5IgxY8t96mBWAEEddm9kRAfXwGIkkkY",
+      "MTIyMjc5OTI3ODI5Mjg2MTAxOQ.Gqd915.RMnoDcOlOlKDLnu8X5VOakv1QhBGfyO6uybe5g",
+      "MTIyMjgxMDU3OTEwMjcyODMwMw.Gg6Ct6.D6nyzOjs3U7jJ4IOQOsqOoTe4ljiV00kr0mLFw",
+      "MTIyMzE3NjMwODcyNTY0NTM4Mw.Gis_K8.JDFtLQAZQ0MpQhdPx5L-0IAT9NnQHnmhxO0WXU",
+      "MTEzMjE2OTA2NDE3Nzk5NTc5Ng.GVAZqL.-yG3fLjWPXWJEiy_Jz_77R34ouFMKZ4DIRVCqg",
+      "MTIxNzMwNDA4MTIzMjU2MDE3OQ.G9tBVp.kvNBQm_vrrdHmkVRva-JpmYaNeta4-q80gOxME"
+
     ]
   },
   "status": {
-    "main": "",
+    "main": "online",
     "alts": "invisible"
   },
   "nitro": {
@@ -16,9 +30,9 @@
     "delay": true
   },
   "giveaway": {
-    "enable": true,
+    "enable": false,
     "delay": 15,
-    "dm": "Hey, I won a giveaway !",
+    "dm": "Dmed being exicited for getting nitro",
     "dm_delay": 25,
     "blacklist_words": [
       "bot",
@@ -43,7 +57,7 @@
     "enable": false
   },
   "webhook": {
-    "url": "",
+    "url": "https://discord.com/api/webhooks/1226749425616027713/tk0AeFT0eOJFFnCphyG4bxpmJ1iQavTDOX6g-5FDo4jWgWwydPRMflINOoHdKVYm6I_E",
     "good_only": false
   },
   "blacklist_servers": []
